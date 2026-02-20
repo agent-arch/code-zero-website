@@ -4,7 +4,7 @@ export default function LifestyleSection() {
       {/* Full-width image with overlay */}
       <div className="relative h-[70vh] lg:h-[85vh] overflow-hidden">
         <img
-          src="https://www.code-zero.com/uploads/media/cf/39/d1/1665400354/code-zero-sailing-clothing.jpg?ts=1756126269"
+          src="/products/sailing-lifestyle.jpg"
           alt="CODE-ZERO Sailing Lifestyle"
           className="w-full h-full object-cover parallax-slow"
           loading="lazy"

@@ -5,7 +5,7 @@ export default function SplitFeature() {
         {/* Men */}
         <a href="#" className="group relative block h-[500px] lg:h-[700px] overflow-hidden">
           <img
-            src="https://www.code-zero.com/uploads/media/a2/07/57/1742573978/code-zero-men.jpg?ts=1761757476"
+            src="/products/men-collection.jpg"
             alt="CODE-ZERO Men's Collection"
             className="w-full h-full object-cover transition-transform duration-700 group-hover:scale-105"
             loading="lazy"
@@ -30,7 +30,7 @@ export default function SplitFeature() {
         {/* Women */}
         <a href="#" className="group relative block h-[500px] lg:h-[700px] overflow-hidden">
           <img
-            src="https://www.code-zero.com/uploads/media/13/7b/97/1770739314/home-women-2026.jpg?ts=1770739314"
+            src="/products/women-collection.jpg"
             alt="CODE-ZERO Women's Collection"
             className="w-full h-full object-cover transition-transform duration-700 group-hover:scale-105"
             loading="lazy"
